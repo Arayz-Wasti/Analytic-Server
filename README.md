@@ -43,7 +43,7 @@ Built with async-first design, suitable for microservices, dashboards, and event
 ♻️ Graceful startup & shutdown lifecycle
 
 🏗 Architecture
-Client / Frontend
+**Client / Frontend
         ↓
    FastAPI Gateway
         ↓
@@ -53,7 +53,7 @@ Client / Frontend
  │  Email Service   │
  └──────────────────┘
         ↓
-    MongoDB
+    MongoDB**
 
 🛠 Tech Stack
 Layer	Technology
